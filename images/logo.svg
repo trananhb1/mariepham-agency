@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 40" fill="#111111">
+  <!-- MP Monogram -->
+  <rect x="0" y="4" width="3" height="32" />
+  <polygon points="3,4 17,20 17,4 20,4 20,36 17,36 17,22 3,36 0,36 0,33 12,20 0,7 0,4" />
+  <rect x="24" y="4" width="3" height="32" />
+  <path d="M27,4 L37,4 C43,4 46,8 46,14 C46,20 43,24 37,24 L27,24 Z M30,7 L30,21 L36,21 C41,21 43,18 43,14 C43,10 41,7 36,7 Z" />
+  <!-- Divider -->
+  <rect x="56" y="8" width="1" height="24" opacity="0.3" />
+  <!-- Wordmark -->
+  <text x="68" y="28" font-family="'Inter', sans-serif" font-size="14" font-weight="600" letter-spacing="4">MARIE PHAM</text>
+</svg>
